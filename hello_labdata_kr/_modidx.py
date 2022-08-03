@@ -27,4 +27,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'user': 'bardok07',
                 'version': '0.0.1'},
   'syms': { 'hello_labdata_kr\\core': {'hello_labdata_kr\\core.hello': 'https://bardok07.github.io/hello_labdata_kr/hello_labdata_kr\\core.html#hello'},
-            'hello_labdata_kr\\greetings': { 'hello_labdata_kr\\greetings.hello': 'https://bardok07.github.io/hello_labdata_kr/hello_labdata_kr\\greetings.html#hello'}}}
+            'hello_labdata_kr\\greetings': { 'hello_labdata_kr\\greetings.hello': 'https://bardok07.github.io/hello_labdata_kr/hello_labdata_kr\\greetings.html#hello'},
+            'hello_labdata_kr\\jokes': { 'hello_labdata_kr\\jokes.qual_time_nao_tem_mundial': 'https://bardok07.github.io/hello_labdata_kr/hello_labdata_kr\\jokes.html#qual_time_nao_tem_mundial'}}}
